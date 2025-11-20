@@ -1,0 +1,11 @@
+# # ServiceVersionModel
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**version** | **string** |  |
+**environment** | [**\OpenAPI\Client\Model\Environment**](Environment.md) |  |
+**last_validated_at** | **\DateTime** |  |
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

@@ -1,0 +1,9 @@
+# # AvailableChargeArray
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**available_charge** | [**\OpenAPI\Client\Model\AvailableCharge[]**](AvailableCharge.md) |  |
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
