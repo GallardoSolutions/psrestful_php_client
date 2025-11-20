@@ -262,13 +262,14 @@ openapi-generator-cli generate \
 
 ### Get Help
 
-- **Documentation**:
-  - [Main README](README.md) - Getting started and overview
-  - [API Reference](PSRestfulClient/README.md) - Detailed endpoint documentation
-  - [API Docs](https://api.psrestful.com/docs) - Interactive API documentation
+- **API Documentation**: [https://docs.psrestful.com](https://docs.psrestful.com)
+- **API Reference**: [https://api.psrestful.com/docs](https://api.psrestful.com/docs)
+- **PromoStandards Specification**: [https://docs.psrestful.com/standards](https://docs.psrestful.com/standards)
+- **Original PromoStandards Specification**: [https://www.promostandards.org](https://www.promostandards.org)
+- **GitHub Issues**: [Report bugs or request features](../../issues)
+- **Discussions**: Ask questions and share your experiences with the community
 - **Email Support**: devs@psrestful.com
 - **Website**: [https://psrestful.com/contact-us/](https://psrestful.com/contact-us/)
-- **Issues**: [GitHub Issues](../../issues) for bug reports and feature requests
 
 ### For Companies
 
